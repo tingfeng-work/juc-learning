@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AQS/AQS.iml" filepath="$PROJECT_DIR$/AQS/AQS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lock/Lock.iml" filepath="$PROJECT_DIR$/Lock/Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLocal/ThreadLocal.iml" filepath="$PROJECT_DIR$/ThreadLocal/ThreadLocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/juc-learning.iml" filepath="$PROJECT_DIR$/.idea/juc-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-basic/thread-basic.iml" filepath="$PROJECT_DIR$/thread-basic/thread-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
+    </modules>
+  </component>
+</project>
